@@ -1,4 +1,4 @@
-### Olá, eu sou o Gleidson Kumagai 👋
+### Olá, eu sou o Gleidson Kumagai
 
 * **Independent Electrical & Hardware Engineer** | Focado em projetos de ciclo completo (end-to-end), eletrônica automotiva e sistemas embarcados de alta performance.
 * **Localização:** Campo Grande, MS - Brasil.
