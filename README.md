@@ -13,14 +13,14 @@
 ---
 
 ### 📚 Artigos Científicos & Publicações
-* **IEEE (SEPOC 2022):** Autor responsável pela concepção, projeto e prototipagem física do hardware no estudo *"Educational Low-Cost Frequency Response Analyzer using Arduino and Software Octave"*[cite: 11].
-* **Pesquisa Acadêmica Automotiva:** Autor do TCC *"Aprimoramento do Sistema Eletrônico de Injeção para Motores Ciclo Otto"* (UFMS), base técnica da central Kumagai K-400 e amplamente citado no meio acadêmico nacional[cite: 11].
+* **IEEE (SEPOC 2022):** Autor responsável pela concepção, projeto e prototipagem física do hardware no estudo *"Educational Low-Cost Frequency Response Analyzer using Arduino and Software Octave"*.
+* **Pesquisa Acadêmica Automotiva:** Autor do TCC *"Aprimoramento do Sistema Eletrônico de Injeção para Motores Ciclo Otto"* (UFMS), base técnica da central Kumagai K-400 e amplamente citado no meio acadêmico nacional.
 
 ---
 
 ### 🌐 Background Industrial & Internacional
-* **Manufatura Avançada (Japão):** Atuação prática na linha de montagem de motores na *Yamaha Marine*[cite: 11], experiência no setor de fundição na *Enkei*, e rigoroso controle de qualidade (*Kensa*) com verificação peça a peça de componentes voltados para a indústria eletrônica na *Bridgestone* (Iwata)[cite: 11].
-* **Impacto Comunitário:** Atuação voluntária em diagnóstico e recuperação de placas eletrônicas de equipamentos hospitalares (camas motorizadas e cadeiras de rodas elétricas) para o CRAS local[cite: 11].
+* **Manufatura Avançada (Japão):** Atuação prática na linha de montagem de motores na *Yamaha Marine*, experiência no setor de fundição na *Enkei*, e rigoroso controle de qualidade (*Kensa*) com verificação peça a peça de componentes voltados para a indústria eletrônica na *Bridgestone*.
+* **Impacto Comunitário:** Atuação voluntária em diagnóstico e recuperação de placas eletrônicas de equipamentos hospitalares (camas motorizadas e cadeiras de rodas elétricas) para o CRAS local.
 
 ---
 
