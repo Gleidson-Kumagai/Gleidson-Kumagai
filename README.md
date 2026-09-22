@@ -1,16 +1,26 @@
-## Hi there 👋
+### Olá, eu sou o Gleidson Kumagai 👋
 
-<!--
-**Gleidson-Kumagai/Gleidson-Kumagai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Independent Electrical & Hardware Engineer** | Focado em projetos de ciclo completo (end-to-end), eletrônica automotiva e sistemas embarcados de alta performance.
+* **Localização:** Campo Grande, MS - Brasil.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Áreas de Atuação & Especialidades
+* **Eletrônica Automotiva:** Desenvolvimento de ECUs personalizadas (ex: projeto Kumagai K-400), módulos auxiliares (K-lambda mini) e engenharia reversa de centrais OEM.
+* **Sistemas de Potência & Chicotes:** Projeto e montagem de chicotes elétricos de alta performance (*Motorsports*) com malha concêntrica e proteção contra EMI.
+* **Ciclo de Produto Completo:** Pesquisa de datasheets, captura de esquemáticos, layout de placas de circuito impresso (PCB) e suporte técnico especializado.
+
+---
+
+### 🚀 Projetos em Destaque
+> *Estes repositórios contêm manuais técnicos, documentações e especificações dos produtos Kumagai.*
+
+* **[Kumagai K-400](https://github.com/gleidson-kumagai)** — Central de Injeção Eletrônica programável robusta para motores Ciclo Otto.
+* **[Kumagai K-lambda mini](https://github.com/gleidson-kumagai)** — Módulo condicionador de sonda lambda compacto e de alta precisão.
+
+---
+
+### 📫 Como me encontrar
+* **E-mail:** gleidsonkumagai@gmail.com
+* **WhatsApp:** [(67) 99616-2107](https://wa.me/5567996162107)
+* **GitHub:** [github.com/gleidson-kumagai](https://github.com/gleidson-kumagai)
