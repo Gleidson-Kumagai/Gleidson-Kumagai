@@ -6,9 +6,9 @@
 ---
 
 ### 🛠️ Áreas de Atuação & Especialidades
-* **Eletrônica Automotiva:** Desenvolvimento de ECUs personalizadas (ex: projeto Kumagai K-400), módulos auxiliares (K-lambda mini) e engenharia reversa de centrais OEM.
-* **Sistemas de Potência & Chicotes:** Projeto e montagem de chicotes elétricos de alta performance (*Motorsports*) com malha concêntrica e proteção contra EMI.
-* **Ciclo de Produto Completo:** Pesquisa de datasheets, captura de esquemáticos, layout de placas de circuito impresso (PCB) e suporte técnico especializado.
+* **Eletrônica Automotiva:** Desenvolvimento de ECUs personalizadas (ex: projeto Kumagai K-400), módulos auxiliares (K-lambda mini) e engenharia reversa em centrais e chicotes OEM para criação de novos produtos ou soluções de problemas.
+* **Sistemas de Potência & Chicotes:** Projeto e montagem de chicotes elétricos de alta performance.
+* **Ciclo de Produto Completo:** Pesquisa de datasheets, captura de esquemáticos, layout de placas de circuito impresso (PCB), montagem de placas e hardware de produto final, venda de produtos e suporte técnico especializado.
 
 ---
 
